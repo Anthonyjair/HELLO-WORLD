@@ -1,2 +1,2 @@
 # HELLO-WORLD
-My FIRST REPO
+My first repository of my coding career, hopefully not my last :)
